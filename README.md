@@ -1,4 +1,4 @@
-# Installing NvChad Version 2.5
+# Installing NvChad Version 2.5 python, c cpp
 ## Backup and remove old nvim config.
 Backup old nvim config.
 ```
