@@ -29,5 +29,5 @@ git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
 ```
 Or this already configured version
 ```
-git clone https://github.com/haxorg-ux/nvstarter ~/.config/nvim && nvim
+git clone https://github.com/haxorg-ux/nvstarter-ccpp ~/.config/nvim && nvim
 ```
